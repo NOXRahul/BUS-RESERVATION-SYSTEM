@@ -19,12 +19,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Seat Selection | Admin Dashboard |
-|-----------|---------------|-----------------|
-| ![Home](https://via.placeholder.com/300x200/0d0d1a/00e5ff?text=Home+Page) | ![Seats](https://via.placeholder.com/300x200/0d0d1a/bf5fff?text=Seat+Selection) | ![Admin](https://via.placeholder.com/300x200/0d0d1a/00ff9d?text=Admin+Dashboard) |
-
 ---
 
 ## ✨ Features
